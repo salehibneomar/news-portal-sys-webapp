@@ -1,2 +1,4 @@
 # news-portal-sys
-RAW PHP news portal system with admin and client panel
+Admin + Client
+
+Designed and Developed by Saleh Ibne Omar
