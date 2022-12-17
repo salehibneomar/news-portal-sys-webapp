@@ -1,0 +1,69 @@
+.user-image-table-sm{
+    width:  40px;
+    height: 40px;
+    border: 2px solid #cfcfcf;
+    border-radius: 50%;
+}
+
+.custom-margin-120px{
+    margin-top: 120px !important;
+}
+
+.form-control-focus-class{
+    color:#495057;
+    background-color:#fff;
+    border-color:#80bdff;
+    outline:0;
+    box-shadow:inset 0 0 0 transparent,none;
+}
+
+.post-table-image{
+    width:  60px;
+    height: 40px;
+    border: 2px solid #cfcfcf;
+}
+
+.table-overflow-controler-x{
+    overflow-x: auto !important;
+}
+
+.truncate-text{
+    white-space: nowrap; 
+    text-overflow:ellipsis; 
+    overflow: hidden; 
+    max-width: 300px !important;
+}
+
+.user-image-icon-sidebar{
+    max-width:  40px;
+    max-height: 35px;
+    border: 2px solid #cfcfcf;
+    border-radius: 50%;
+}
+
+.toast{
+    opacity: 1 !important;
+    box-shadow: none !important;
+    border: 1px solid rgba(0, 0, 0, 0.3) !important;
+}
+
+
+
+.dropdown-item:focus{
+    background-color: transparent !important;
+}
+
+.profile-user-img{
+    width: 100px !important;
+    height: 100px !important;
+}
+
+.single-post-image{
+    border: 4px solid #b7bec5 !important;
+    width: 100% !important;
+    height: 460px !important;
+}
+
+.single-post-description{
+    line-height: 30px;
+}
